@@ -20,7 +20,7 @@
 	* 4/13 ENTER
 	* 5/13 ENTER
 	* 6/13 ENTER
-	* 7/13 ENTER ( H2 with disk-based persistence)
+	* 7/13 H2 with in-memory persistence
 	* 8/13 ENTER
 	* 9/13 Maven / Gradle
 	* 10/13 Enter
