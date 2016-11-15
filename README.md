@@ -13,7 +13,7 @@
 
 
 ##Demonstration
-1. Erstelle einen Ordner und führe in diesem Verzeichnis den folgenden Befehl  aus: ```yo jhipster```
+1. Erstelle einen Ordner (z.B. "application" und führe in diesem Verzeichnis den folgenden Befehl  aus: ```yo jhipster```
 	* 1/16 Monolithic application
 	* 6/16 SQL
 	* 7/16 MySQL
