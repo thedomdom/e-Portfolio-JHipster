@@ -31,7 +31,7 @@
 3. Der ```Owner``` verfügt über folgende Attribute:
 	* Firstname
 	* Lastname
-	* Birthyear
+	* Birthday
 3. Das ```Car``` verfügt über folgende Attribute:
 	* Model
 	* Company
