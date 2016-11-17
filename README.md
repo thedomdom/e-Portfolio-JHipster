@@ -39,4 +39,4 @@
 4. Ein ```Car``` verfügt genau über einen ```Owner```. Ein ```Owner``` kann über mehrere ```Cars``` verfügen.
 5. Importiere die erstellen Entitäten in JHipster mit dem folgendem Befehl ```yo jhipster:import-jdl filename.jh```
 7. Starte die Anwendung und lege einen ```Owner``` mit einem zugehörigen ```Car``` an.
-8 Importiere die Anwendung in deine IDE.
+8. Importiere die Anwendung in deine IDE.
