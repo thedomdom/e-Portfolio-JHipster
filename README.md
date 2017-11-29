@@ -1,10 +1,10 @@
 # e-Portfolio JHipster
 
-##Requirements
+## Requirements
 1. Java 8
 2. Maven (In IntelliJ und eclipse integriert) / Gradle
 
-##Installation von JHipster
+## Installation von JHipster
 1. [NodeJS](https://nodejs.org/en/) (LTS version)
 2. Yeoman: ```npm install -g yo```
 2. Bower: ```npm install -g bower```
@@ -12,7 +12,7 @@
 4. JHipster: ```npm install -g generator-jhipster```
 
 
-##Demonstration
+## Demonstration
 1. Erstelle einen Ordner (z.B. "cars" und führe in diesem Verzeichnis den folgenden Befehl  aus: ```yo jhipster```
 	* 1/13 "Monolithic application"
 	* 2/13 ENTER
